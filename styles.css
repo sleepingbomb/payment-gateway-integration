@@ -18,9 +18,9 @@ position: relative;
 .text
 { margin-top: 190px;
 text-align: center;
-position: absolute;
-top: 40%;
-left: 50%;
+position: fixed;
+top: 24%;
+right: 0;
 transform: translate(-50%, -50%);
 color: white;
 }
